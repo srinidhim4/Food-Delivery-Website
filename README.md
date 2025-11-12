@@ -1,6 +1,6 @@
 # Food Delivery Website
 
-Welcome to the Food Delivery Website repository created by Srinidhi M! 🍽️
+Welcome to the Food Delivery Website repository created by Srinidhi M and team! 🍽️
 
 ## Description
 
